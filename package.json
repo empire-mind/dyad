@@ -79,7 +79,7 @@
     "@biomejs/biome": "^1.9.4",
     "@dyad-sh/supabase-management-js": "v1.0.1",
     "@lexical/react": "^0.33.1",
-    "@modelcontextprotocol/sdk": "^1.17.5",
+    "@modelcontextprotocol/sdk": "^1.32.2",
     "@monaco-editor/react": "^4.7.0-rc.0",
     "@neondatabase/api-client": "^2.7.1",
     "@neondatabase/serverless": "^1.0.1",
@@ -159,7 +159,7 @@
     "uuid": "^11.1.0",
     "yaml": "^2.8.1",
     "ws": "^8.19.0",
-    "zod": "^4.3.6"
+    "zod": "^4.6.7"
   },
   "optionalDependencies": {
     "dyad-keychain-reader": "file:native/keychain-reader"
